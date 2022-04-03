@@ -19,8 +19,8 @@ After making modifications to the tickerIndex variable, the run times were more 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/100173822/161407783-686d36c0-1550-4fa1-bbf5-f25bec76e896.png)
 
 ## Summary 
-Refactoring code is a great way to make macro processes more efficient.  In this project, there were only 12 stocks that Steve wanted analyzed over two seperate years. This equivalated to 3,012 line items in the original Excel document.  If Steve were to analyze more stocks, or more years, redundancies in processes would create longer run times and unncessary RAM usage.   
+Refactoring code is a great way to make macro processes more efficient.  In this project, there were only 12 stocks that Steve wanted analyzed over two seperate years.  If Steve were to analyze more stocks, or more years, redundancies in processes would create longer run times and unncessary RAM usage.   
 
-There major drawback to refactoring is that it takes time to first understand the original code, and then more time to determine what code needed to be re-written in order to make processes more efficient.  This time invested in refactoring can be more than the time the refactoring saves.  
+The major drawback to refactoring is the time it takes to first understand the original code, and then determine what code needs to be re-written in order to make processes more efficient.  The total time invested into refactoring may be more than the total time saved by refactoring.  
 
-In this project, the new code was almost a carbon copy as the original with a only a few steps missing.  This made it easier to understand, however when working with other individuals, it may take longer to determine how they write code.  Refactoring in this project was only able to save a fraction of a second, but this is due to the limited data.  
+In this project, the new code was almost a carbon copy as the original with only slight modifications.  This made it easier to understand, however when working with other individuals, it may take longer to determine how they write code.  The code could also be longer and more confusing.  Refactoring in this project was only able to save a fraction of a second on the given data.  Not a worthwhile investment of time with the given data.  
