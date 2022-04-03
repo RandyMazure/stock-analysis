@@ -5,7 +5,7 @@ Steve, an aspiring Excel afficianato, was wanting to analyze the stock market in
 ## Results
 The following are the results from 2017 and 2018 respectively:
 
-![Year to Year](https://user-images.githubusercontent.com/100173822/161407630-203a9f93-3f34-4afe-99b6-c3178610f1c1.png)
+![Year to Year](https://user-images.githubusercontent.com/100173822/161407829-d1b0a4ce-60b3-4288-bdbd-7c1ba9593bd7.png)
 
 As can be seen, only two stocks had positive returns in 2018 (Tickers "ENPH" and "RUN").  Of those two stocks, "Run" was the only to increase returns from year 2017 to 2018.  
 The second half was to refactor code.  The following are the original run times for 2017 and 2018:
@@ -20,3 +20,7 @@ After making slight modifications to the code, the run times were able to decrea
 
 ## Summary 
 Refactoring code is a great way to make macro processes more efficient.  In this project, there were only 12 stocks that Steve wanted analyzed over two seperate years. This equivalated to 3,012 line items in the original Excel document.  If Steve were to analyze more stocks, or more years, redundancies in processes would create longer run times and unncessary RAM usage.   
+
+There major drawback to refactoring is that it takes time to first understand the original code, and then more time to determine what code needed to be re-written in order to make processes more efficient.  This time invested in refactoring can be more than the time the refactoring saves.  
+
+In this project, the new code was almost a carbon copy as the original with a only a few steps missing.  This made it easier to understand, however when working with other individuals, it may take longer to determine how they write code.  Refactoring in this project was only able to save a fraction of a second, but this is due to the limited data.  
