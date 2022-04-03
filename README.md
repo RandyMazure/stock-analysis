@@ -1,19 +1,19 @@
 # **VBA of Wall Street Challenge**
 
 ## Overview of Project
-Steve, an aspiring Excel afficianato, was wanting to analyze the stock market in order to determine which stocks were performing the best.  In addition, Steve was wanting a more efficient way to go through the code for future purpose to run more stocks. 
+Steve, an aspiring Excel afficianato, was wanting to analyze the stock market in order to determine which stocks were performing the best.  An original macro was created to analyze 12 different stocks in years 2017 and 2018.  This macro had minor inefficiencies that were resolved with refactoring.   
 ## Results
-The following are the results from 2017 and 2018 respectively:
+The following are the return results of the 12 different stocks from 2017 and 2018 respectively:
 
 ![Year to Year](https://user-images.githubusercontent.com/100173822/161407829-d1b0a4ce-60b3-4288-bdbd-7c1ba9593bd7.png)
 
 As can be seen, only two stocks had positive returns in 2018 (Tickers "ENPH" and "RUN").  Of those two stocks, "Run" was the only to increase returns from year 2017 to 2018.  
-The second half was to refactor code.  The following are the original run times for 2017 and 2018:
+The second half involved refactoring code.  The following are the original run times for 2017 and 2018:
 
 ![INITIAL 2017 Time](https://user-images.githubusercontent.com/100173822/161407730-5eb4fcbd-8ea7-45ec-950c-10b91a2675c9.png)
 ![INITIAL 2018 Time](https://user-images.githubusercontent.com/100173822/161407731-0825d587-56a4-4410-9d57-0181ec6de3a7.png)
 
-After making slight modifications to the code, the run times were able to decrease, albeit a small decrease:
+After making modifications to the tickerIndex variable, the run times were more efficient, albeit a small decrease:
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/100173822/161407782-0fa31e86-8c45-4f34-abc4-d1dac9bc0df1.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/100173822/161407783-686d36c0-1550-4fa1-bbf5-f25bec76e896.png)
