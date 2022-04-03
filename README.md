@@ -3,8 +3,8 @@
 ## Overview of Project
 Steve, an aspiring Excel afficianato, was wanting to analyze the stock market in order to determine which stocks were performing the best.  In addition, Steve was wanting a more efficient way to go through the code for future purpose to run more stocks. 
 ## Results
-The following are the results from 2017 and 2018 respectively: 
-![Year to Year](https://user-images.githubusercontent.com/100173822/161407307-1d94a2ee-8c88-4c58-b0da-95b06f13f4d4.png)
+The following are the results from 2017 and 2018 respectively:
+"C:\Users\mazur\Desktop\MSU Coding Schoolwork\Challenge #2\Resources\Year to Year.png"
 As can be seen, only two stocks had positive returns in 2018 (Tickers "ENPH" and "RUN").  Of those two stocks, "Run" was the only to increase returns from year 2017 to 2018.  
 The second half was to refactor code.  The following are the original run times for 2017 and 2018:
 ![INITIAL 2017 Time](https://user-images.githubusercontent.com/100173822/161406982-cdbe8bdc-1637-4187-a1a4-8fdb5e250dc3.png)
